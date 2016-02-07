@@ -12,7 +12,7 @@ import (
 const (
 	// CmdPrefix is the prefix used to identify a command.
 	// !hello whould be identified as a command
-	CmdPrefix = "!"
+	CmdPrefix = "@"
 )
 
 // Bot handles the bot instance
