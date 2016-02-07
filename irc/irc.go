@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/go-chat-bot/bot"
+	"github.com/kwachu96/bot"
 	ircevent "github.com/thoj/go-ircevent"
 )
 
